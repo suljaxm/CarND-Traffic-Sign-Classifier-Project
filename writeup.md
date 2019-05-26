@@ -116,11 +116,11 @@ Here are the results of the prediction:
 
 | Image			        |     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:|  
-| Keep right   			| Keep right									|
-| Pedestrians			| Speed limit (70km/h)     		|
-| Stop	      		| Stop					 				|
-| Turn right ahead      		| Turn right ahead  			|
-| Speed limit (70km/h)					| Speed limit (70km/h)		|
+| Turn right ahead   			| Turn right ahead									|
+| Keep right			| Keep right     		|
+| Speed limit (70km/h)	      		| Speed limit (70km/h)					 				|
+| Stop      		| Stop  			|
+| Pedestrians				| Speed limit (30km/h)	|
 
 The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. 
 
